@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~swiper/swiper';
+
+
+.active {
+  .card {
+    border: 2px solid red !important;
+  }
+}

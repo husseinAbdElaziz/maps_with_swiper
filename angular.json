@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/snazzy-info-window/dist/snazzy-info-window.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -123,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "maps"
+    }
+  },
+  "defaultProject": "maps",
+  "cli": {
+    "analytics": "34214ef6-6d0e-4bb3-94ae-68fcccbd9e7b"
+  }
 }
